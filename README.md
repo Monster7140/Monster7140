@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Monster7140
-- email: abcxyz7140@gmail.com
+- Sr. Software Engineer
 
 <!---
 Monster7140/Monster7140 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
